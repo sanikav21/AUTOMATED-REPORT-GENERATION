@@ -25,6 +25,11 @@ To provide a comprehensive view, the script checks whether the chart image exist
 
 Once all content is added, the report is saved with the filename employee_performance_report.pdf, and a confirmation message is printed to notify the user that the report has been successfully created. This script is especially useful in HR departments, performance review systems, internal presentations, and educational settings where automated reporting of metrics is required. It can easily be adapted to other use cases by modifying column names or adding additional data points. Overall, this code is a powerful example of how Python can be used to transform raw data into structured, readable, and visually appealing business reports with minimal manual effort.
 
-OOUTPUT OF CODE:
+OUTPUT OF CODE:
+
+[employee_performance_report.pdf](https://github.com/user-attachments/files/20746372/employee_performance_report.pdf)
+
+
+![Image](https://github.com/user-attachments/assets/364db1fd-6586-4671-a9c9-c8f785d1894d)
 
 
